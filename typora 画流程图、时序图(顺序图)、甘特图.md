@@ -1,3 +1,5 @@
+(github不支持，需要typora编辑器)
+
 1、横向流程图源码格式：
 
 ```mermaid
