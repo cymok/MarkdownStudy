@@ -1,4 +1,4 @@
-(github不支持，需要typora编辑器)
+(github不支持，需要[typora](https://typora.io/)编辑器)
 
 1、横向流程图源码格式：
 
